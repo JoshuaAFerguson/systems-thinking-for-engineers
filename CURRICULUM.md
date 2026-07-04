@@ -26,6 +26,22 @@ applications — both technical systems and the sociotechnical systems we build 
 5. Write up `notes.md` in your own words. If you can't explain it simply, loop back.
 6. Tick the module off in the [progress tracker](README.md#progress).
 
+## Suggested pace
+
+This is self-directed — go at whatever speed keeps the work honest. As a default rhythm:
+
+- **One module per week** → the whole curriculum in about **4 months** part-time.
+- **Foundations (Phase 1) reward slowing down.** Modules 02–04 (stocks/flows, feedback,
+  delays) are the load-bearing ideas; give them two weeks each if they need it. Everything
+  after leans on them.
+- **The practice modules (09, 10) and every case study are the point.** Don't rush past
+  building a real model or mapping a real problem to "cover material" — the reps are where
+  the intuition forms.
+- **Capstone: 2–3 weeks.** It pulls the whole curriculum onto one real system.
+
+A module isn't "done" when you've read it — it's done when `notes.md` explains it in your own
+words and `case-study.md` shows it applied. Then tick it in the [progress tracker](README.md#progress).
+
 ## Phases & modules
 
 ### Phase 0 — Orientation

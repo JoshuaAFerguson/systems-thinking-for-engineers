@@ -60,6 +60,11 @@ Each module folder is one focused topic with four artifacts:
 ### Capstone
 - [ ] Full systems analysis of a real system
 
+## Contributing
+
+This is a personal learning-in-public repo, but corrections and suggestions are welcome —
+see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
