@@ -23,7 +23,8 @@ is the spine; the rest are referenced by specific modules.
 - **Daniel H. Kim — "Systems Archetypes I–III"** (Pegasus Communications). Compact
   archetype reference.
 - **Chris Argyris — the Ladder of Inference** (via Senge's _Fieldbook_). Mental models.
-- **Richard Cook — "How Complex Systems Fail"** (2000). Short, essential for reliability.
+- **Richard Cook — "How Complex Systems Fail"** (1998, Cognitive Technologies Laboratory,
+  University of Chicago; commonly misdated 2000). Short, essential for reliability.
 - **Nancy Leveson — _Engineering a Safer World_** (2011), STAMP model. Safety as a
   control problem. (Reliability module.)
 - **Charles Goodhart / Marilyn Strathern — Goodhart's Law.** "When a measure becomes a
